@@ -1,0 +1,18 @@
+.conteiner{
+    width: 730px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.block1{
+    width:750px;
+    margin: 20px 40px;
+}
+.block1  p{
+    padding: 20px 20px;
+}
+#block{
+    margin: 20px 50px;
+    width: 500px;
+    height: 200px;
+    background-color: brown;
+}
